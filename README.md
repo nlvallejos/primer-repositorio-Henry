@@ -1,2 +1,2 @@
-# primer-repositorio-Henry
-este es un modulo de prueba del modulo 2 de henry
+este es mi primer repositorio de henry con la cual creamos y clonamos desde github al escritorio de mi pc
+
